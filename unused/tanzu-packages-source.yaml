@@ -8,6 +8,6 @@ spec:
   interval: 30s
   ref:
     branch: convert-to-secretgenerator
-  url: https://github.com/coreydinkens/tmc-flux-poc
+  url: https://github.com/christschn81/tmc-flux-poc
 
 
