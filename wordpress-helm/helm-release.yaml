@@ -17,5 +17,5 @@ spec:
   values:
     replicaCount: 1
     wordpressUsername: admin
-    wordpressPassword: "SecurePass1!"
-    mariadb.auth.rootPassword: "SecurePass1!"
+    wordpressPassword: "VMware1!"
+    mariadb.auth.rootPassword: "VMware1!"
